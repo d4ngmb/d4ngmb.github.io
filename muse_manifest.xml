@@ -1,0 +1,243 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tourismviet01.vn" resolutions="1x" timestamp="1503737834710">
+  <folder name="css">
+    <file name="site_global.css" crc="350905369"/>
+    <file name="index.css" crc="125439030" ref="index"/>
+    <file name="nomq_index.css" crc="4289712266" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="form_check.php" crc="4110044762" ref="index"/>
+    <file name="form_throttle.php" crc="22190333" ref="index"/>
+    <file name="form_process.php" crc="257545537" ref="index"/>
+    <file name="form-u1455.php" crc="3991426807" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="32580840706_9f1d9707eb_k-crop-u761.jpg" crc="347714577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u818-4.png" crc="4288953079" ref="index"/>
+    <file name="u825-4.png" crc="473700023" ref="index"/>
+    <file name="56072058-ha-long-bay-wallpapers-crop-u722.jpg" crc="337781742" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u876-4.png" crc="4288953079" ref="index"/>
+    <file name="u875-4.png" crc="473700023" ref="index"/>
+    <file name="pasted image 1600x900-crop-u785.jpg" crc="421780681" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u897-4.png" crc="4288953079" ref="index"/>
+    <file name="u896-4.png" crc="473700023" ref="index"/>
+    <file name="28020723932_b403c4beaa_b-crop-u992.jpg" crc="288961496" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10210-4.png" crc="61320363" ref="index"/>
+    <file name="8685589426_2e73a10b88_b-crop-u998.jpg" crc="283263622" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fre-sonneveld-18456-crop-u986.jpg" crc="536699562" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9981-4.png" crc="4127621236" ref="index"/>
+    <file name="u10268-4.png" crc="61320363" ref="index"/>
+    <file name="32052422032_90cd6a28d1_k-crop-u1031.jpg" crc="4117650965" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10538-4.png" crc="61320363" ref="index"/>
+    <file name="14213644145_ae0f44a6cd_b-crop-u1045.jpg" crc="497433865" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8812348188_d2a1789879_b.jpg" crc="189160956" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10305-4.png" crc="61320363" ref="index"/>
+    <file name="u10447-4.png" crc="4127621236" ref="index"/>
+    <file name="pasted image 1200x504.jpg" crc="3911561870" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10483-4.png" crc="4127621236" ref="index"/>
+    <file name="pasted image 800x500-crop-u1106.jpg" crc="288807897" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 960x639-crop-u1113.jpg" crc="319150268" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10377-4.png" crc="61320363" ref="index"/>
+    <file name="u10413-4.png" crc="61320363" ref="index"/>
+    <file name="ha-long-bay-vietnam.jpg" crc="246295841" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="32201127155_8d58db1118_k.jpg" crc="4526626" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8687231451_5e20125f05_b.jpg" crc="390830382" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-965791x661.svg" crc="4033841134" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 965791x661_poster_.png" crc="4093082370" ref="index"/>
+    <file name="u1744-4.png" crc="407342157" ref="index"/>
+    <file name="u1741-4.png" crc="4055403673" ref="index"/>
+    <file name="u1757-4.png" crc="251316830" ref="index"/>
+    <file name="u1754-4.png" crc="398198289" ref="index"/>
+    <file name="u1769-4.png" crc="379902325" ref="index"/>
+    <file name="u1766-4.png" crc="167703505" ref="index"/>
+    <file name="tripadvisor-rev.png" crc="304608702" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="envato_logo_white.png" crc="3784208589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="upload-e85523e0-7448-11e6-a2a3-b9e20c685a02.png" crc="199882966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="white_united_logo.png" crc="3870532959" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="woman-1320810_640-crop-u5440.jpg" crc="4108512724" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5451-4.png" crc="4168062106" ref="index"/>
+    <file name="u5456-4.png" crc="497121214" ref="index"/>
+    <file name="u5461-4.png" crc="372106107" ref="index"/>
+    <file name="boy-1942144_1920-crop-u5413.jpg" crc="3994363183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5430-4.png" crc="48656640" ref="index"/>
+    <file name="u5425-4.png" crc="432557181" ref="index"/>
+    <file name="u5435-4.png" crc="442442984" ref="index"/>
+    <file name="homeless-844206_640.jpg" crc="3780580943" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1430-4.png" crc="4168062106" ref="index"/>
+    <file name="u1427-4.png" crc="497121214" ref="index"/>
+    <file name="u1433-4.png" crc="372106107" ref="index"/>
+    <file name="woman-487067_640-crop-u1382.jpg" crc="3838475439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1395-4.png" crc="48656640" ref="index"/>
+    <file name="u1398-4.png" crc="399337789" ref="index"/>
+    <file name="u1401-4.png" crc="442442984" ref="index"/>
+    <file name="u101-4.png" crc="4216608740" ref="index"/>
+    <file name="u199-4.png" crc="413534851" ref="index"/>
+    <file name="u1150-4.png" crc="4207881055" ref="index"/>
+    <file name="u142-4.png" crc="3853077287" ref="index"/>
+    <file name="u231-4.png" crc="4123566775" ref="index"/>
+    <file name="u470-4.png" crc="221255910" ref="index"/>
+    <file name="u940-4.png" crc="4273161786" ref="index"/>
+    <file name="u1778-8.png" crc="472305330" ref="index"/>
+    <file name="u1784-4.png" crc="301523368" ref="index"/>
+    <file name="u1787-4.png" crc="210451350" ref="index"/>
+    <file name="u1790-4.png" crc="24106737" ref="index"/>
+    <file name="u1793-4.png" crc="495836823" ref="index"/>
+    <file name="u1796-4.png" crc="133191073" ref="index"/>
+    <file name="32580840706_9f1d9707eb_k-crop-u7612.jpg" crc="347714577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u818-42.png" crc="4288953079" ref="index"/>
+    <file name="u825-42.png" crc="473700023" ref="index"/>
+    <file name="56072058-ha-long-bay-wallpapers-crop-u7222.jpg" crc="337781742" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u876-42.png" crc="4288953079" ref="index"/>
+    <file name="u875-42.png" crc="473700023" ref="index"/>
+    <file name="pasted image 1600x900-crop-u7852.jpg" crc="421780681" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u897-42.png" crc="4288953079" ref="index"/>
+    <file name="u896-42.png" crc="473700023" ref="index"/>
+    <file name="u940-42.png" crc="4273161786" ref="index"/>
+    <file name="u470-42.png" crc="221255910" ref="index"/>
+    <file name="ha-long-bay-vietnam434x271.jpg" crc="3971553672" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14213644145_ae0f44a6cd_b-crop-u10452.jpg" crc="497433865" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="28020723932_b403c4beaa_b-crop-u9922.jpg" crc="288961496" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 800x500-crop-u11062.jpg" crc="288807897" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8685589426_2e73a10b88_b-crop-u9982.jpg" crc="283263622" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 960x639-crop-u11132.jpg" crc="319150268" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="32052422032_90cd6a28d1_k-crop-u10312.jpg" crc="4117650965" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fre-sonneveld-18456-crop-u9862.jpg" crc="536699562" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9981-42.png" crc="4127621236" ref="index"/>
+    <file name="u10210-42.png" crc="4127621236" ref="index"/>
+    <file name="u10268-42.png" crc="4127621236" ref="index"/>
+    <file name="u10305-42.png" crc="4127621236" ref="index"/>
+    <file name="u10377-42.png" crc="4127621236" ref="index"/>
+    <file name="u10413-42.png" crc="4127621236" ref="index"/>
+    <file name="u10447-42.png" crc="4127621236" ref="index"/>
+    <file name="u10483-42.png" crc="4127621236" ref="index"/>
+    <file name="u10538-42.png" crc="4127621236" ref="index"/>
+    <file name="woman-1320810_640-crop-u54402.jpg" crc="4108512724" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5451-42.png" crc="4168062106" ref="index"/>
+    <file name="u5456-42.png" crc="497121214" ref="index"/>
+    <file name="u5461-42.png" crc="372106107" ref="index"/>
+    <file name="u1430-42.png" crc="4168062106" ref="index"/>
+    <file name="u1427-42.png" crc="497121214" ref="index"/>
+    <file name="u1433-42.png" crc="372106107" ref="index"/>
+    <file name="boy-1942144_1920-crop-u54132.jpg" crc="3994363183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5430-42.png" crc="48656640" ref="index"/>
+    <file name="u5425-42.png" crc="432557181" ref="index"/>
+    <file name="u5435-42.png" crc="442442984" ref="index"/>
+    <file name="woman-487067_640-crop-u13822.jpg" crc="3838475439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1395-42.png" crc="48656640" ref="index"/>
+    <file name="u1398-42.png" crc="399337789" ref="index"/>
+    <file name="u1401-42.png" crc="442442984" ref="index"/>
+    <file name="u1741-42.png" crc="4055403673" ref="index"/>
+    <file name="u1754-42.png" crc="398198289" ref="index"/>
+    <file name="u1766-42.png" crc="167703505" ref="index"/>
+    <file name="u1744-42.png" crc="407342157" ref="index"/>
+    <file name="u1757-42.png" crc="251316830" ref="index"/>
+    <file name="u1769-42.png" crc="379902325" ref="index"/>
+    <file name="u1778-82.png" crc="472305330" ref="index"/>
+    <file name="u1784-42.png" crc="301523368" ref="index"/>
+    <file name="u1787-42.png" crc="210451350" ref="index"/>
+    <file name="u1790-42.png" crc="24106737" ref="index"/>
+    <file name="u1793-42.png" crc="495836823" ref="index"/>
+    <file name="u1796-42.png" crc="133191073" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="326395667" seo="true" mt="1503504216657" redirect="true"/>
+</manifest>
